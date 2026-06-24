@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 logging.basicConfig(level=logging.INFO)
 
 # =============================================
-BOT_TOKEN = "8616206201:--7lTYyH54bZtt4"
+BOT_TOKEN = "8560383974:AAEaXMDg043hf7VHvi7xAMO_DFJUkG8PSBY"
 WATCH_ADDRESS = "UQDBYLvK1r4I9ogqJfUyPBZGZTgUNe9e_Ze4Uk42ArOthsqd"
 TONCENTER_API = "https://toncenter.com/api/v2"
 TONCENTER_API_KEY = ""
